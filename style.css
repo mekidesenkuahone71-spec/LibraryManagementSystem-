@@ -1,0 +1,13 @@
+body{font-family:Arial;background:#f4f4f4;margin:0;padding:20px}
+.container{max-width:800px;margin:0 auto;background:white;padding:20px;border-radius:8px}
+h1{text-align:center;color:#333;margin-bottom:20px}
+input,button{padding:10px;margin:5px;border:1px solid #ddd;border-radius:4px}
+input{width:200px}
+button{background:#007cba;color:white;cursor:pointer;border:none}
+button:hover{background:#005a87}
+.btn-danger{background:#dc3545}
+.btn-danger:hover{background:#c82333}
+table{width:100%;border-collapse:collapse;margin-top:20px}
+th,td{padding:10px;text-align:left;border-bottom:1px solid #ddd}
+th{background:#f8f9fa}
+.actions{display:flex;gap:5px}
